@@ -1,4 +1,4 @@
-# C Piscine @ 42 Málaga | June/July 2024 | 13th Edition
+# C Piscine @ 42 Málaga | June/July 2024 | 14th Promotion
 
 <p float="left" align="center">
   <img src="https://raw.githubusercontent.com/zafraedu/42-Projects/master/public/piscine.png" width="50%"/>
