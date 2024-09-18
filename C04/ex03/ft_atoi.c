@@ -14,6 +14,7 @@ int	is_strange(char c)
 		|| c == '\n'
 		|| c == '\r'
 		|| c == '\f'
+		|| c == '\v'
 		|| c == ' ');
 }
 
